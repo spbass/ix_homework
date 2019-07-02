@@ -169,5 +169,4 @@ ggplot(data = mpg) +
 # TUESDAY TEST 
 #ANGELA I AM CHANGING THIS. SEND IT BACK XO 
 # THX  
-#They think we are actually dumbasses, which honestly is a fair assessment
-#along with every boy at our table 
+# I deleted the shade because god knows I shared this with the whole class
