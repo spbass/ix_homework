@@ -168,4 +168,5 @@ ggplot(data = mpg) +
 
 # TUESDAY TEST 
 #ANGELA I AM CHANGING THIS. SEND IT BACK XO 
-# THX                                 
+# THX  
+#They think we are actually dumbasses, which honestly is a fair assessment
